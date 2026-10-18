@@ -215,4 +215,4 @@ InfoRSS is the complete free version, offering all features and updates included
 Ready to enhance your browsing experience? **Download InfoRSS today and stay informed effortlessly!**
 
 ---
-**Last updated:** 2026-10-17 22:02:45 UTC
+**Last updated:** 2026-10-18 00:43:08 UTC
